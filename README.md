@@ -77,4 +77,4 @@ DrillFlow is in early development, and contributions are welcome.
 DrillFlow isn’t just a tool. It’s a new era of drill design and rehearsal.
 From the high school field to the biggest DCI stage — we want to make rehearsal smoother, smarter, and more musical.
 
-**Let’s make drill flow.**
+**By marchers, for marchers.**
