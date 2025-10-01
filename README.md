@@ -50,11 +50,8 @@ UDBapp works, but directors and marchers know the pain:
 ---
 
 ## 📈 Pricing Model
-- 🎓 **High Schools:** ~$20 per marcher (one-time per season)
-- 🏆 **DCI Corps:** ~$35 per marcher (one-time per season)
-- 🎺 **Colleges:** ~$25 per marcher (one-time per season)
+- **Marchers & Directors** **$35 per year**
 
-Flat pricing — no hidden subscriptions.
 
 ---
 
